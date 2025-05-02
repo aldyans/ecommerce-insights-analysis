@@ -12,9 +12,8 @@ This project explores customer behavior, seasonal trends, pricing inefficiencies
 - Pricing Inefficiencies Detection
 
 ## 📎 Tools Used
-- Python (Pandas, Seaborn, Matplotlib)
+- Python (Pandas, Numpy, Seaborn, Matplotlib)
 - Google Colab
-- Jupyter Notebook
 
 ## 🔗 View Notebook on Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IpGRzIjlBXH2GXXVGwcsN1zMtgtlqL5s?usp=sharing)
