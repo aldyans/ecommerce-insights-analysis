@@ -21,5 +21,6 @@ This project explores customer behavior, seasonal trends, pricing inefficiencies
 ---
 
 ## 📬 Contact
-📧 Aldiansyah – [LinkedIn](https://www.linkedin.com/in/aldyanns)
+📧 Aldiansyah – [LinkedIn](https://www.linkedin.com/in/aldyanns) [Email](writealdyans@gmail.com)
+
 
