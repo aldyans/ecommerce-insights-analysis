@@ -57,5 +57,5 @@ Dengan menggunakan dataset publik dari ribuan transaksi aktual dari tahun 2016 -
 
 <br>
 
->
-* *Data yang digunakan pada analisis adalah data historis transaksi pada tahun 2016 - 2018. Proyek ditujukan untuk menggambarkan proses analisis dan kapabilitas untuk mendapatkan insight. * 
+>  
+  *Data yang digunakan pada analisis adalah data historis transaksi pada tahun 2016 - 2018. Proyek ditujukan untuk menggambarkan proses analisis dan kapabilitas untuk mendapatkan insight.* 
