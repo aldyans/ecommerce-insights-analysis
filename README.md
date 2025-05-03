@@ -3,7 +3,7 @@
 A comprehensive analysis of a real-world e-commerce dataset.  
 This project explores customer behavior, seasonal trends, pricing inefficiencies, and payment preferences.
 
-<br><br>
+<br>
 
 ## 📖 Introduction
 
