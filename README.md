@@ -55,3 +55,7 @@ Dengan menggunakan dataset publik dari ribuan transaksi aktual dari tahun 2016 -
 📧 Aldiansyah – [LinkedIn](https://www.linkedin.com/in/aldyanns)  
 📧 Email – writealdyans@gmail.com
 
+<br>
+
+>
+* *Data yang digunakan pada analisis adalah data historis transaksi pada tahun 2016 - 2018. Proyek ditujukan untuk menggambarkan proses analisis dan kapabilitas untuk mendapatkan insight. * 
