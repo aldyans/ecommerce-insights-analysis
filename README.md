@@ -10,7 +10,7 @@ Dalam era transformasi digital yang semakin pesat, industri e-commerce mengalami
 Dengan menggunakan dataset publik yang memuat ribuan transaksi aktual pada tahun 2016 - 2018, proyek ini bertujuan untuk menghasilkan insight yang actionable dan relevan bagi stakeholder bisnis dan pengambil keputusan.
 
 > ⚠️ ***Disclaimer***   
-  *Data yang digunakan dalam proyek ini merupakan data historis transaksi e-commerce di Brasil pada periode 2016 hingga 2018.*  
+  *Data yang digunakan dalam proyek ini merupakan data historis transaksi e-commerce di Brazil pada periode 2016 hingga 2018.*  
   *Proyek ini ditujukan untuk keperluan demonstrasi analisis, dan tidak dimaksudkan untuk merepresentasikan kondisi pasar saat ini.*
 
 ---
