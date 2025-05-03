@@ -6,7 +6,7 @@ This project explores customer behavior, seasonal trends, pricing inefficiencies
 ## 📖 Introduction
 
 Dalam era transformasi digital yang semakin pesat, industri e-commerce mengalami pertumbuhan signifikan, termasuk di pasar negara berkembang seperti Brazil. Laporan ini disusun untuk memahami dinamika pasar e-commerce Brazil dengan pendekatan berbasis data.   
-Dengan menggunakan dataset publik dari ribuan transaksi aktual, proyek ini menghasilkan insight yang actionable dan relevan bagi stakeholder bisnis dan pengambil keputusan.
+Dengan menggunakan dataset publik dari ribuan transaksi aktual, proyek ini bertujuan untuk menghasilkan insight yang actionable dan relevan bagi stakeholder bisnis dan pengambil keputusan.
 
 ## 📊 Analytical Scope
 
