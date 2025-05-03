@@ -39,7 +39,7 @@ Dengan menggunakan dataset publik dari ribuan transaksi aktual, proyek ini bertu
 ## 📎 Key Tools & Methode
 - Python (Pandas, Numpy, Seaborn, Matplotlib)
 - Google Colab
-- Data Cleaning & EDA**
+- Data Cleaning & EDA
 - Customer Segmentation (RFM)
 - Sentiment Analysis
 - Markdown & Report Writing
