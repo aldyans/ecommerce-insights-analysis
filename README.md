@@ -43,7 +43,7 @@ Dengan menggunakan dataset publik dari ribuan transaksi aktual, proyek ini bertu
 - Customer Segmentation (RFM)
 - Sentiment Analysis
 - Markdown & Report Writing
-
+<br>
 ## 🔗 View Notebook on Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IpGRzIjlBXH2GXXVGwcsN1zMtgtlqL5s?usp=sharing)
 
