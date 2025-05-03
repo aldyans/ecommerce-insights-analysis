@@ -28,9 +28,9 @@ Dengan menggunakan dataset publik yang memuat ribuan transaksi aktual pada tahun
 - Analisis ulasan & sentimen pelanggan
 - Identifikasi kelompok pelanggan bernilai tinggi
 
-#### 3. Pricing Efficiency & Anomalies
+#### 3. Pricing Efficiency 
 - Korelasi harga terhadap jumlah pembelian
-- Deteksi anomali harga produk
+- Deteksi rentang harga optimal dan potensi inefisiensi pada harga produk
 - Evaluasi ongkos kirim dan dampaknya terhadap kepuasan & konversi
 
 #### 4. Payment Preference Analysis
