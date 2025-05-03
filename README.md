@@ -7,7 +7,7 @@ A comprehensive analysis of a real-world e-commerce dataset.
 ## 📖 Introduction
 
 Dalam era transformasi digital yang semakin pesat, industri e-commerce mengalami pertumbuhan signifikan, termasuk di pasar negara berkembang seperti Brazil. Laporan ini disusun untuk memahami dinamika pasar e-commerce Brazil dengan pendekatan berbasis data.   
-Dengan menggunakan dataset publik dari ribuan transaksi aktual, proyek ini bertujuan untuk menghasilkan insight yang actionable dan relevan bagi stakeholder bisnis dan pengambil keputusan.
+Dengan menggunakan dataset publik dari ribuan transaksi aktual dari tahun 2016 - 2018, proyek ini bertujuan untuk menghasilkan insight yang actionable dan relevan bagi stakeholder bisnis dan pengambil keputusan.
 
 ---
 
