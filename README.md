@@ -58,5 +58,5 @@ Dengan menggunakan dataset publik dari ribuan transaksi aktual dari tahun 2016 -
 <br>
 
 ⚠️ ***Disclaimer***   
-*Data yang digunakan dalam proyek ini merupakan data historis transaksi e-commerce di Brasil (2016–2018).*  
-*Seluruh analisis ditujukan untuk keperluan demonstrasi analisis, dan tidak dimaksudkan untuk merepresentasikan kondisi pasar saat ini.*
+*Data yang digunakan dalam proyek ini merupakan data historis transaksi e-commerce di Brasil pada periode 2016 hingga 2018.*  
+*Proyek ini ditujukan untuk keperluan demonstrasi analisis, dan tidak dimaksudkan untuk merepresentasikan kondisi pasar saat ini.*
