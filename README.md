@@ -51,11 +51,11 @@ Dengan menggunakan dataset publik yang memuat ribuan transaksi aktual pada tahun
 
 
 ### 🔗 View Notebook on Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IpGRzIjlBXH2GXXVGwcsN1zMtgtlqL5s?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/11ANUezB2yJ5hvBFzs0HS_Mj4HxThqnC7/view?usp=sharing)
 
 ---
 
 ## 📬 Contact
 📧 Aldiansyah – [LinkedIn](https://www.linkedin.com/in/aldyanns)  
-📧 Email – writealdyans@gmail.com
+📧 Email – heyaldyans@gmail.com
 
