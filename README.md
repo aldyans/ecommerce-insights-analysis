@@ -58,7 +58,6 @@ Dengan menggunakan dataset publik yang memuat ribuan transaksi aktual pada tahun
 
 ### 🔗 View Report
 [![View Report](https://img.shields.io/badge/View-Report-gray?logo=googledocs&color=707070)](https://www.canva.com/design/DAGm1qRANpI/qzPsofceN26eUTYSzhXTRQ/edit?utm_content=DAGm1qRANpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
->  ⚠️ Report still in progress but it's accessible to view
 
 ---
 
