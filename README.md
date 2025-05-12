@@ -51,7 +51,7 @@ Dengan menggunakan dataset publik yang memuat ribuan transaksi aktual pada tahun
 
 
 ### 🔗 View Notebook on Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/11ANUezB2yJ5hvBFzs0HS_Mj4HxThqnC7/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vTYHsSplAm_QWMtGgXDjgjnD_LqiV63p?usp=sharing)
 
 ### 🔗 View Datasets
 [![View Dataset](https://img.shields.io/badge/View-Dataset-gray?logo=googledrive&color=707070)](https://drive.google.com/drive/folders/1HIDkmD9hUlfvYsF2jmaBed18mFL93Pdy?usp=drive_link)
