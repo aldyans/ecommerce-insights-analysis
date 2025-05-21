@@ -53,11 +53,14 @@ Dengan menggunakan dataset publik yang memuat ribuan transaksi aktual pada tahun
 ### 🔗 View Notebook on Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vTYHsSplAm_QWMtGgXDjgjnD_LqiV63p?usp=sharing)
 
-### 🔗 View Datasets
-[![View Dataset](https://img.shields.io/badge/View-Dataset-gray?logo=googledrive&color=707070)](https://drive.google.com/drive/folders/1HIDkmD9hUlfvYsF2jmaBed18mFL93Pdy?usp=drive_link)
+### 🔗 View Dashboard
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-gray?logo=googledocs&color=707070)](https://public.tableau.com/views/End-to-EndE-CommerceAnalysisProject/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🔗 View Report
 [![View Report](https://img.shields.io/badge/View-Report-gray?logo=googledocs&color=707070)](https://www.canva.com/design/DAGm1qRANpI/qzPsofceN26eUTYSzhXTRQ/edit?utm_content=DAGm1qRANpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+### 🔗 View Datasets
+[![View Dataset](https://img.shields.io/badge/View-Dataset-gray?logo=googledrive&color=707070)](https://drive.google.com/drive/folders/1HIDkmD9hUlfvYsF2jmaBed18mFL93Pdy?usp=drive_link)
 
 ---
 
